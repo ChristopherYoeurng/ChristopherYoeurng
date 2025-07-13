@@ -1,7 +1,10 @@
 ## Hi there 👋
+
+### __Because of the sensitive nature of my work, most of my coolest projects are kept under tight lock and key and won’t appear here. Feel free to message me, and I’ll be happy to explain them! :D__
+
 Hello! My name is Chris, and I’m a Computer Science student at Cal Poly SLO with interests in performance, privacy/security, accessibility, ability enhancement, and linguistics. I care deeply about using tech to expand what humans are capable of (particularly those with disabilities) and believe that a fundamental piece of that puzzle is figuring out how to design things that are private, efficient, and secure.
 
-#### __Because of the sensitive nature of my work, most of my coolest projects are kept under tight lock and key and won’t appear here. Feel free to message me, and I’ll be happy to explain them! :D__
+
 
 Some highlights of my career so far include: 
 - 📲 learning performant iOS and macOS development at Apple by working on iMessage.
