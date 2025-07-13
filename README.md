@@ -4,9 +4,9 @@ Hello! My name is Chris, and I’m a Computer Science student at Cal Poly SLO wi
 **Because of the sensitive nature of my work, most of my coolest projects are kept under tight lock and key and won’t appear here. Feel free to message me, and I’ll be happy to explain them! :D**
 
 Some highlights of my career so far include: 
-📲 learning performant iOS and macOS development at Apple by working on iMessage.
-☁️ learning scalable AWS design at Amazon by working on the tech that powers 2-day shipping.
-🔐 publishing my first paper in IEEE PST2025 (Privacy, Security, and Trust) about the intersection between machine learning and privacy/security.
+- 📲 learning performant iOS and macOS development at Apple by working on iMessage.
+- ☁️ learning scalable AWS design at Amazon by working on the tech that powers 2-day shipping.
+- 🔐 publishing my first paper in IEEE PST2025 (Privacy, Security, and Trust) about the intersection between machine learning and privacy/security.
 <!--
 **ChristopherYoeurng/ChristopherYoeurng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
